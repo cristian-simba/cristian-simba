@@ -1,9 +1,9 @@
-## 👋 Presentación 
+# 👋 Presentación 
 
 Hola Soy Cristian y me gusta la tecnología.<br>Manejo diferentes lenguajes de programación y bases de datos, pero estoy aprendiendo más de este mundo
 
 
-## 🌐 Redes Sociales:
+# 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-simba) 
 
 # 💻 Tecnologías que uso:
