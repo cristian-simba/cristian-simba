@@ -1,4 +1,4 @@
-## Presentación 👋
+## 👋 Presentación 
 
 Hola Soy Cristian y me gusta la tecnología.<br>Manejo diferentes lenguajes de programación y bases de datos, pero estoy aprendiendo más de este mundo
 
