@@ -1,3 +1,5 @@
+![banner profile](https://github.com/user-attachments/assets/6337e11a-52c8-4681-8d19-18923004422b)
+
 ## 💫 Sobre mi
 
 La tecnología me inspira y motiva a seguir aprendiendo y explorando nuevas soluciones. Soy David, un tecnólogo en desarrollo de software de Ecuador, y estoy entusiasmado por aprender y crecer en el campo de la tecnología, así como en mi desarrollo personal y profesional. Mi objetivo es contribuir en cada proyecto en el que participo, aprovechando mis conocimientos y habilidades para encontrar soluciones eficientes y creativas. Cada proyecto es una nueva oportunidad para crear algo asombroso.
@@ -6,7 +8,7 @@ Puedes conocer más sobre mi trabajo en mi [portafolio personal](https://portfol
 
 ¡Espero que te guste!
 
-## 💻 Tecnologias
+## 💻 Tecnologías
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
