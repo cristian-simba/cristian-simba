@@ -1,4 +1,4 @@
-## 💫 Sobre me:
+## 💫 Sobre mi:
 La tecnología me inspira y motiva a seguir aprendiendo y explorando nuevas soluciones. Cada proyecto es una nueva oportunidad para crear algo asombroso.
 
 ## 💻 Tecnologias:
