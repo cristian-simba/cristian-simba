@@ -1,7 +1,6 @@
-![banner profile](https://github.com/user-attachments/assets/6337e11a-52c8-4681-8d19-18923004422b)
+![banner](https://github.com/user-attachments/assets/ebc1df0b-29b8-41ca-a0e7-7172ac271bb1)
 
 ## 💫 Sobre mi
-
 La tecnología me inspira y motiva a seguir aprendiendo y explorando nuevas soluciones. Soy David, un tecnólogo en desarrollo de software de Ecuador, y estoy entusiasmado por aprender y crecer en el campo de la tecnología, así como en mi desarrollo personal y profesional. Mi objetivo es contribuir en cada proyecto en el que participo, aprovechando mis conocimientos y habilidades para encontrar soluciones eficientes y creativas. Cada proyecto es una nueva oportunidad para crear algo asombroso.
 
 Puedes conocer más sobre mi trabajo en mi [portafolio personal](https://portfolio-david-simba.vercel.app/).
