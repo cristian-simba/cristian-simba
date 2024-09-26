@@ -1,4 +1,4 @@
-![1234](https://github.com/user-attachments/assets/0f244c1a-48db-45e4-b613-9a79e57b9516)
+![image](https://github.com/user-attachments/assets/283b88b9-0d7d-431c-a8f6-bf722537330d)
 
 ## 💫 Sobre mi
 La tecnología me inspira y motiva a seguir aprendiendo y explorando nuevas soluciones. Soy David, un tecnólogo en desarrollo de software de Ecuador, y estoy entusiasmado por aprender y crecer en el campo de la tecnología, así como en mi desarrollo personal y profesional. Mi objetivo es contribuir en cada proyecto en el que participo, aprovechando mis conocimientos y habilidades para encontrar soluciones eficientes y creativas. Cada proyecto es una nueva oportunidad para crear algo asombroso.
