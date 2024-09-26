@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/283b88b9-0d7d-431c-a8f6-bf722537330d)
 ![banner_profile](https://github.com/user-attachments/assets/a17df23e-864c-4989-9ce6-d0a0727bdc4d)
 
 ## 💫 Sobre mi
