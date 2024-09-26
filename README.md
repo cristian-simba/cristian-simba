@@ -7,11 +7,11 @@ La tecnología me inspira y motiva a seguir aprendiendo y explorando nuevas solu
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-simba) 
 
-[![](https://visitcount.itsvg.in/api?id=cristian-simba&icon=0&color=8)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-simba&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=cristian-simba&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
